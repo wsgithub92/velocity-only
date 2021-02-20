@@ -1,5 +1,5 @@
 <template>
-  <p>这是master分支</p>
+  <p>这是dev分支</p>
   <Velocity msg="Welcome to Your Vue.js App"/>
 </template>
 
