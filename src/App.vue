@@ -1,15 +1,18 @@
 <template>
   <p>这是dev分支</p>
   <Velocity msg="Welcome to Your Vue.js App"/>
+<!--  <List />-->
 </template>
 
 <script>
 import Velocity from './components/Velocity.vue'
+import List from "@/components/List";
 
 export default {
   name: 'App',
   components: {
-    Velocity
+    Velocity,
+    // List
   }
 }
 </script>
