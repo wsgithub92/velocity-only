@@ -19,3 +19,8 @@ npm run build
 ```
 npm run lint
 ```
+
+### Components/List文件
+```
+这个文件是新加的在vue/cli中对component:is+keep-alive 的使用实例
+```
